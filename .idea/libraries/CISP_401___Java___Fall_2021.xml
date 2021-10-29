@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CISP 401 - Java - Fall 2021">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimpleDB.zip!/" />
+      <root url="jar://$PROJECT_DIR$/06 Word Game.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BasicFiles.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
